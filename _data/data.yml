@@ -2,6 +2,9 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+headermenu:
+    cover-letter: https://drive.google.com/file/d/1SDosAJwEz52YUvqZWN35Vrk9oDxMfccT/view?usp=sharing
+
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     qualifications: True # set to False if you want education in main section instead of in sidebar

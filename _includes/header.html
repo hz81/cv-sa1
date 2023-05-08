@@ -1,3 +1,4 @@
+{% assign headermenu = site.data.data.headermenu %}
 <header class="site-header-fixed">
   <nav class="site-nav nav-trigger">
     <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -9,7 +10,7 @@
       </span>
     </label>
     <div class="trigger">
-      <a class="page-link" href="{{ "/coverletter/" | relative_url }}" target="_blank">Cover Letter</a>
+      <a class="page-link" href="{{ headermenu.cover-letter }}" target="_blank">Cover Letter</a>
       <a class="page-link" href="{{ "#s-offeredskills" }}">Offered Skills</a>
       <a class="page-link" href="{{ "#s-achievements" }}">Achievements</a>
       <a class="page-link" href="{{ "#s-experiences" }}">Career Overview</a>
