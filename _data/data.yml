@@ -130,7 +130,7 @@ skills-tech:
         name: "Windows, Linux Ubuntu"
         level: 95%
 
-      - group: "language"
+      - group: "Language"
         name: "SQL, C#, TypeScript, JavaScript, HTML, CSS, VB"
         level: 80%
 
