@@ -358,7 +358,6 @@ p {
 
   // Positioning context for the mobile navigation icon
   position: fixed;
-  margin-right: 200px;
 }
 
 .site-title {
@@ -406,7 +405,7 @@ p {
 .site-nav {
   position: absolute;
   top: 9px;
-  right: $lcl-spacing-unit * .5;
+  right: 500px; //$lcl-spacing-unit * .5;
   background-color: $theme-color;
   border: 1px solid $lcl-border-color-01;
   border-radius: 5px;
