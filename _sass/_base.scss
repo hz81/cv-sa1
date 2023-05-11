@@ -362,6 +362,10 @@ p {
   position: fixed;
 }
 
+.padding-endof-menu {
+  padding: 2px;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   color: $lcl-background-color-01;
