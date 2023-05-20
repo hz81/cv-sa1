@@ -31,11 +31,12 @@ sidebar:
     characters:
       title: Characters
       info:
-        - item: Self-determined and motivated achiever
-        - item: High initiative and proactive
+        - item: Self-determined and motivated achiever; Result driven
+        - item: High initiative and proactive; Positive can-do attitude
         - item: Love to contribute; Excellent team player
         - item: Passionate to learn new things; Easy to adapt person
         - item: Keen to find solutions; Problem-solving oriented
+        - item: Well organized person; Attention do detail
         - item: Friendly and attentive listener
 
     languages:
@@ -124,7 +125,7 @@ skills-attributes:
         desc: "Proven ability to build stakeholder and user engagement; Oversee the implementation of product changes and communicate the impact to stakeholders, users, customers, and teams"
 
       - title: Communication skill
-        desc: Good written and verbal communication skills
+        desc: "Good written and verbal communication skills; Competent languages: English (Professional), Bahasa (Native)"
 
 skills-tech:
     title: Technical Skills
@@ -154,7 +155,7 @@ skills-tech:
         level: 90%
 
       - group: "Collaboration App"
-        name: "Github, Office365, Google Workspace, Jira Software"
+        name: "Github, M365, Google Workspace, Jira"
         level: 90%
 
 achievements:
